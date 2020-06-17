@@ -1,0 +1,15 @@
+{
+  "name": "fastjs",
+  "version": "1.0.0",
+  "description": "Test JS fast",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "Ariel Fuggini",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.4",
+    "standard": "^14.3.4"
+  }
+}
